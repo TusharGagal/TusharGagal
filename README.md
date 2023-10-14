@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Gagal</h1>
 <h3 align="center">Front-End Enthusiast | Turning Designs into Interactive Experiences</h3>
-<img src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif22" align="right" alt="coding" width="400" />
+<img src="https://cdn.dribbble.com/users/260312/screenshots/2553737/media/55d2ee70677214c6817f561d8901ec67.gif" align="right" alt="coding" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargagal&label=Profile%20views&color=0e75b6&style=flat" alt="tushargagal" /> </p>
 
