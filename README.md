@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushargagal&show_icons=true&locale=en" alt="tushargagal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushargagal&" alt="tushargagal" /></p>
+[![An image of @tushargagal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tushargagal)](https://holopin.io/@tushargagal)
