@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargagal&label=Profile%20views&color=0e75b6&style=flat" alt="tushargagal" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
-
 - 💬 Ask me about **Front End development,Software Engineering, Data structures And Algorithm**
 
 - 📫 How to reach me **tushargagal1209@gmail.com**
